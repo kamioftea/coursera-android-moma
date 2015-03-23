@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+    <string name="action_more_info">More Information</string>
+    <string name="alert_dialog_ok">Visit MoMA</string>
+    <string name="alert_dialog_cancel">Not Now</string>
+    <string name="alert_dialog_two_buttons_title">More Information</string>
+    <string name="alert_dialog_two_buttons_message">
+        This app was inspired by the work of Modern Art masters such as Piet Mondrian.\n
+        \n
+        Check out the Museum of Modern Art site for more info.</string>
+</resources>
